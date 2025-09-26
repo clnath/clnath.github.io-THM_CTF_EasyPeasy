@@ -1,8 +1,8 @@
 title: "EASYPEASY"
 description: "THM ROOM"
 author: yourname
-#theme: jekyll-theme-minimal
-remote_theme: pages-themes/Midnight
+theme: jekyll-theme-minimal
+#remote_theme: pages-themes/Midnight
 
 # Optional extras
 markdown: kramdown
